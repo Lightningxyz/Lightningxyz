@@ -10,7 +10,7 @@ I'm a hardworking student pursuing a degree in **Artificial Intelligence and Dat
 - Microsoft Office
 
 ### 🎓 Certifications
-- Google Data Analytixa Professional (Jul 2025)
+- Google Data Analytics Professional (Jul 2025)
 - Google Cybersecurity Professional (Jul 2024)
 - Building AI – University of Helsinki (Nov 2021)
 - Elements of AI – University of Helsinki (Jul 2021)
