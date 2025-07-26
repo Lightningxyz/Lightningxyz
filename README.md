@@ -18,7 +18,7 @@ I'm a hardworking student pursuing a degree in **Artificial Intelligence and Dat
 ### 🌱 Currently
 - Proficient in **English**, learning **German**
 - Exploring projects in AI, security, and game development
-- Hobbies include **reading**, **music**, **photography**, and **creating maps for games**
+- Hobbies include **reading**, **photography**, and **creating maps for games**
 
 ---
 
