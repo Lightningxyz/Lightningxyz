@@ -6,8 +6,8 @@ I'm a hardworking student pursuing a degree in **Artificial Intelligence and Dat
 - Python
 - Java
 - C
-- MySQL
-- Microsoft Office
+- SQL
+
 
 ### 🎓 Certifications
 - Google Data Analytics Professional (Jul 2025)
