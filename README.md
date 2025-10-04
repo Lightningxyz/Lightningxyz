@@ -1,6 +1,6 @@
 # Hi, I'm Karan 👋
 
-I'm a hardworking student pursuing a degree in **Artificial Intelligence and Data Science** at **Thadomal Shahani Engineering College**. I'm passionate about **AI**, **Cybersecurity**, and **Game Design**.
+I'm a hardworking student pursuing a degree in **Artificial Intelligence and Data Science**. I'm passionate about **AI**, **Cybersecurity**, and **Game Design**.
 
 ### 💻 Technical Skills
 - Python
